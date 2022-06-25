@@ -247,29 +247,3 @@ $(document).ready(function() {
 timeCompare()
 })
 
-
-
-
-
-
-
-// //time slot variables
-// const hr01 = $("#hour01").text()
-// const hr02 = $("#hour02").text()
-// const hr03 = $("#hour03").text()
-// const hr04 = $("#hour04").text()
-// const hr05 = $("#hour05").text()
-// const hr06 = $("#hour06").text()
-// const hr07 = $("#hour07").text()
-// const hr08 = $("#hour08").text()
-// const hr09 = $("#hour09").text()
-// const hr10 = $("#hour10").text()
-
-// // //Save Events to Locale Storage
-// // $('btn01').on(.click,function() {
-// //     if ($('text01').val()) {
-// //         localStorage.removeItem('text01')
-// //     }
-// //     localStorage.setItem(hr01, $('text01').val())
-// //     })
-
